@@ -1,0 +1,5 @@
+Potrebno je imati okruzje s instaliranim Python 3.7+ i SPADE-om. 
+
+U datoteci konstante.py po potrebi promijeniti adresu XMPP servera.
+
+Pokretetati pomoću "python main.py"
